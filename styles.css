@@ -1,0 +1,8 @@
+.newPlayerBackground {
+  background-image: url('wheel.jpg')
+  background-size: contain;
+}
+
+.stats {
+  margin-bottom: 60px;
+}
